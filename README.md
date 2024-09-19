@@ -4,8 +4,7 @@ Developed using SwiftUI, this app provides real-time weather updates and future 
 Users can search, select, and save cities for weather updates
 
 
-<img width="204" alt="Screenshot 2024-09-20 at 3 55 12 AM" src="https://github.com/user-attachments/assets/2c631bc5-e3b7-4df0-a371-20b1d007c848"> <img width="184" alt="Screenshot 2024-09-20 at 3 56 08 AM" src="https://github.com/user-attachments/assets/acb61a06-ceae-42a1-a2cb-26b2451afb45"> <img width="186" alt="Screenshot 2024-09-20 at 3 56 54 AM" src="https://github.com/user-attachments/assets/384b14a8-20ac-441e-be03-40b303b896e3">
-
+<img width="184" alt="Screenshot 2024-09-20 at 3 56 08 AM" src="https://github.com/user-attachments/assets/acb61a06-ceae-42a1-a2cb-26b2451afb45"> <img width="186" alt="Screenshot 2024-09-20 at 3 56 54 AM" src="https://github.com/user-attachments/assets/384b14a8-20ac-441e-be03-40b303b896e3"> <img width="480" alt="Screenshot 2024-09-20 at 3 58 32 AM" src="https://github.com/user-attachments/assets/6dd20547-e71d-42d9-8824-9cc272f6183a">
 
 
 ### Figma
