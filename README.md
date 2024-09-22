@@ -3,7 +3,7 @@
 Developed using SwiftUI, this app provides real-time weather updates and future forecasts with a dynamic user interface, including weather animations via SpriteKit. 
 Users can search, select, and save cities for weather updates
 
-###Video
+### Video
 https://drive.google.com/file/d/15U5DWOEfQ_8gv_r4UYdDZ2RMl1Zi6Jgj/view 
 
 <img width="184" alt="Screenshot 2024-09-20 at 3 56 08 AM" src="https://github.com/user-attachments/assets/acb61a06-ceae-42a1-a2cb-26b2451afb45"> <img width="186" alt="Screenshot 2024-09-20 at 3 56 54 AM" src="https://github.com/user-attachments/assets/384b14a8-20ac-441e-be03-40b303b896e3"> 
