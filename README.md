@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 
 
 Developed using SwiftUI, this app provides real-time weather updates and future forecasts with a dynamic user interface, including weather animations via SpriteKit. 
 Users can search, select, and save cities for weather updates
